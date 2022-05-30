@@ -11,13 +11,13 @@ export default function Movie(props) {
     <div className="movie">
       <Card key={props.id} sx={{ minWidth: 275 }}>
         <CardContent>
-          <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
+          <Typography sx={{ fontSize: 14 }} color="text.primary" gutterBottom>
             MovieName - {props.name}
           </Typography>
-          <Typography sx={{ mb: 1.5 }} color="text.secondary">
+          <Typography sx={{ mb: 1.5 }} color="text.primary">
             Ratings - {props.rating}
           </Typography>
-          <Typography sx={{ mb: 1.5 }} color="text.secondary">
+          <Typography sx={{ mb: 1.5 }} color="text.primary">
             RealisedDate - {props.releaseDate}
           </Typography>
         </CardContent>

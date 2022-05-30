@@ -44,6 +44,90 @@ var MovieDetails = [
     rating: "9",
     releaseDate: "31.12.2010",
   },
+  {
+    id: 7,
+    name: "OneHello",
+    rating: "6",
+    releaseDate: "25.5.2022",
+  },
+  {
+    id: 8,
+    name: "Two",
+    rating: "7",
+    releaseDate: "25.4.2022",
+  },
+  {
+    id: 9,
+    name: "Three",
+    rating: "8",
+    releaseDate: "2.5.2021",
+  },
+  {
+    id: 10,
+    name: "Four",
+    rating: "6",
+    releaseDate: "24.5.2019",
+  },
+  {
+    id: 11,
+    name: "Five",
+    rating: "9",
+    releaseDate: "17.5.2012",
+  },
+  {
+    id: 12,
+    name: "Six",
+    rating: "9",
+    releaseDate: "31.12.2010",
+  },
+  {
+    id: 13,
+    name: "OneHello",
+    rating: "6",
+    releaseDate: "25.5.2022",
+  },
+  {
+    id: 14,
+    name: "Two",
+    rating: "7",
+    releaseDate: "25.4.2022",
+  },
+  {
+    id: 15,
+    name: "Three",
+    rating: "8",
+    releaseDate: "2.5.2021",
+  },
+  {
+    id: 16,
+    name: "Four",
+    rating: "6",
+    releaseDate: "24.5.2019",
+  },
+  {
+    id: 17,
+    name: "Five",
+    rating: "9",
+    releaseDate: "17.5.2012",
+  },
+  {
+    id: 18,
+    name: "Six",
+    rating: "9",
+    releaseDate: "31.12.2010",
+  },
+  {
+    id: 19,
+    name: "OneHello",
+    rating: "6",
+    releaseDate: "25.5.2022",
+  },
+  {
+    id: 20,
+    name: "Two",
+    rating: "7",
+    releaseDate: "25.4.2022",
+  }
 ];
 
 
